@@ -1,7 +1,7 @@
 let name = ("M.Haider");
 let age = ("29");
 
-if (age is or greater than;= 18) {
+if (age >= 18) {
   console.log("Welcome " + name + ", you are an adult.");
 } else {
   console.log("Sorry " + name + ", you are not yet an adult.");
